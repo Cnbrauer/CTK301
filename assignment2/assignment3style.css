@@ -1,0 +1,41 @@
+h1 {
+  color: #0f233d;
+  background-color: #c1dafa;
+}
+h2{
+  color: #046656;
+  background-color: #bcf4eb;
+}
+h3 {
+  background-color: #aed4b1;
+  color: #125318;
+}
+h4 {
+  background-color: #ecd7fd;
+  color: #34035d;
+}
+
+a:link{
+ color: #d30707;
+}
+a:visited{
+ color: #036c08;
+}
+a:hover{
+ color: #ffdf42;
+}
+
+#mainpg {
+  color: #f612d8;
+}
+#one {
+  color: #1c19fa;
+}
+.hours {
+  color: #c50000;
+  background-color: #fce3e3;
+}
+#AOE {
+  background-color: #defbc5;
+  color: #6ac41c;
+}
