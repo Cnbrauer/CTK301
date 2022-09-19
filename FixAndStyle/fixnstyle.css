@@ -1,0 +1,45 @@
+a:link {
+ color: #00ff00;
+ text-decoration: none;
+}
+
+a:visited {
+ color: #ff0000;
+ text-decoration: underline;
+}
+
+#poisonsky{
+  background-color: #92c3fb;
+}
+#mouse{
+  background-color: #ffef0f;
+}
+#tree{
+  background-color: #95f376;
+}
+#redtime{
+  color: #ff0000;
+}
+h1 {
+  color: #ffffff;
+}
+h2{
+  color: #0000ff;
+}
+h3 {
+  background-color: #ffef0f;
+}
+h4 {
+  background-color: #087f00;
+  color: #ffef0f;
+}
+h5{
+  color: #ff0000;
+}
+
+.goldenyello {
+  color: #fdc724;
+}
+.thedoctah {
+  color: #0000ff;
+}
